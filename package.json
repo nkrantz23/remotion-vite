@@ -6,13 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview",
-    "serve:prod": "node server.js"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@remotion/cli": "^3.3.36",
     "@remotion/player": "^3.3.36",
-    "express": "^4.18.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.7.0",
